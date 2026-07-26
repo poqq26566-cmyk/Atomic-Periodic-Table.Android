@@ -1,4 +1,3 @@
-
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
@@ -22,18 +21,8 @@ android {
         applicationId "com.jlindemann.science"
         minSdkVersion 24
         targetSdkVersion 36
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-        versionCode 204
-        versionName "4.5.0m"
-=======
         versionCode 214
         versionName "4.7.0m"
->>>>>>> Stashed changes
-=======
-        versionCode 213
-        versionName "4.7.0m"
->>>>>>> c052db15d8a46d2cdfcf789e06bb60cf0cb2199a
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
