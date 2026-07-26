@@ -2,15 +2,7 @@
     <string name="app_name">Atomic</string>
 
     <string name="personalization_settings">Personalization</string>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    <string name="app_version" translatable="false">v4.5.0m-Build.204</string>
-=======
     <string name="app_version" translatable="false">v4.6.0m-Build.214</string>
->>>>>>> Stashed changes
-=======
-    <string name="app_version" translatable="false">v4.6.0m-Build.213</string>
->>>>>>> c052db15d8a46d2cdfcf789e06bb60cf0cb2199a
     <string name="next_sale_start" translatable="false" >2024/08/05</string>
     <string name="next_sale_end" translatable="false" >2024/09/15</string>
 
@@ -832,4 +824,3 @@
     <string name="compare_elements">Compare Elements</string>
     <string name="exit_compare_mode">Exit Comparison</string>
 </resources>
-
