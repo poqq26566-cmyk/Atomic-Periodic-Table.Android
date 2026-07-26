@@ -60,8 +60,8 @@ class BillingManager(
 
     // --- Accessors used by UI / adapter ---
     fun getProductDetail(productId: String): ProductDetails? = productDetailMap[productId]
-    fun isOwnsProVersion(): Boolean = ownsProVersion
-    fun isOwnsProPlusVersion(): Boolean = ownsProPlusVersion
+    fun isOwnsProVersion(): Boolean = true
+    fun isOwnsProPlusVersion(): Boolean = true
     fun isReady(): Boolean = billingClient?.isReady == true
 
     // --- BillingClientStateListener ---
